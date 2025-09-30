@@ -1,0 +1,12 @@
+header {
+    background-color: #F8F9FA;
+    height: 80px;
+    line-height: 80px;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 3rem;
+    padding-left: 20px;
+}
+
